@@ -44,7 +44,7 @@ export function Chat() {
                 {message.role === "assistant" && (
                   <Avatar>
                     <AvatarFallback>UC</AvatarFallback>
-                    <AvatarImage src="https://github.com/rocketseat.png" />
+                    <AvatarImage src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" />
                   </Avatar>
                 )}
 
